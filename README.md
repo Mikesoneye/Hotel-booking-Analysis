@@ -93,13 +93,18 @@ ON hotels.meal = meal_cost.meal;
 
     <img width="609" height="67" alt="Capture totla nyt" src="https://github.com/user-attachments/assets/ad0465d3-3cc3-430d-8e40-2ccda33b214f" />
 
+
    <img width="559" height="79" alt="Capture parking" src="https://github.com/user-attachments/assets/e44445ef-79be-492e-b997-fe61b2444209" />
+
 
    <img width="600" height="73" alt="Capture growth" src="https://github.com/user-attachments/assets/ab8e8ad7-f29f-4def-8b00-815850743235" />
 
+
    <img width="262" height="63" alt="Capture total revenue" src="https://github.com/user-attachments/assets/9e70036e-0b0d-4e32-9ddc-a590525c57b5" />
 
+
    <img width="596" height="68" alt="Capture previous" src="https://github.com/user-attachments/assets/1af90e19-b1d5-4c4e-a0e8-cc7fca2fcb25" />
+
 
 - Analysis was carried out to compare revenue, growth rate and Hotel types across years and Quarters.
 
